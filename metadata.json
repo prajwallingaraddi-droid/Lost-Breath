@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix LAST EXIT",
+  "description": "A 3D browser-based industrial survival game set inside a four-floor facility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
